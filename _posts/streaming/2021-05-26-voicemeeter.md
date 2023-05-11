@@ -15,7 +15,7 @@ Why is it a gem in my opinion? For those who have different audio hardware might
 
 Voicemeeter has different versions: Basic, Banana, Potato (the most advanced). What changes between the versions is the amount of outputs/inputs you can manage. I use the Banana version, but for the sake of simplicity I will show you the basic layout. Once you know how it works, I suggest you to go with the Banana version, as it offers more options.
 
-![Basic layout](/assets/VoicemeeterBasic.jpg)
+![Basic layout]({{ site.baseurl }}/assets/VoicemeeterBasic.jpg)
 
 ## First thing to do
 
@@ -41,7 +41,7 @@ As you can see, there are two columns dedicated to hardware inputs. This is wher
 
 I know I haven't covered every single button of the basic interface, but I just wanted to unveil the potential of the software. Imagine having more virtual inputs. That means, for example, that you could have a dedicated virtual input for Discord, which is great for audio management in streaming. And what if you had more letters **B**? In that case you would be able to route your secondary microphone input to a different output. All this is possible in the Banana version, which looks like this:
 
-![Banana layout](/assets/banana.jpg)
+![Banana layout]({{ site.baseurl }}/assets/banana.jpg)
 
 ## Final thoughts
 
