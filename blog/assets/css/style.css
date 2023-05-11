@@ -1,0 +1,17 @@
+.footer-col-wrapper {
+    display: flex;
+}
+
+.footer-right {
+    margin-left: auto;
+}
+
+.social-media .svg-icon {
+    height: 30px;
+    width: 30px;
+}
+
+.orange {
+    color: #f66a0a;
+    fill: #f66a0a;
+}
